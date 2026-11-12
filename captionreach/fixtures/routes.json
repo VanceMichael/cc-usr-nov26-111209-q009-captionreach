@@ -1,0 +1,27 @@
+{
+  "/live.m3u8": {
+    "file": "live.m3u8",
+    "type": "application/vnd.apple.mpegurl"
+  },
+  "slid:/live.m3u8": {
+    "file": "slid.m3u8",
+    "type": "application/vnd.apple.mpegurl"
+  },
+  "/segment-a.vtt": {
+    "file": "segment-a.vtt",
+    "type": "text/vtt"
+  },
+  "/segment-b.vtt": {
+    "file": "segment-b.vtt",
+    "type": "text/vtt"
+  },
+  "/joined.vtt": {
+    "file": "joined.vtt",
+    "type": "text/vtt"
+  },
+  "slid:/segment-a.vtt": {
+    "file": "segment-a.vtt",
+    "type": "text/vtt",
+    "status": 410
+  }
+}

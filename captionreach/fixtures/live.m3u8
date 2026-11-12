@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:40
+#EXTINF:1.5,
+segment-a.vtt
+#EXTINF:1.5,
+segment-b.vtt
