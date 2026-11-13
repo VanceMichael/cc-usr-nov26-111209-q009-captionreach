@@ -3,3 +3,6 @@ __pycache__/
 *.sqlite3
 objects/
 .env
+reach-state.json
+drill-result.json
+captionreach-drill-*/
